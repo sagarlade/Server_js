@@ -20,6 +20,26 @@ module.exports ={ data : [
       "https://apikuslabs.com/assets/pdf/questionnaire_data_fiduciaries.pdf",
   },
   {
+    types: "Guide",
+    categories: "Marketing",
+    header: "Digital Marketing Strategies",
+    title: "The Ultimate Guide to Digital Marketing",
+    previewImageUrl:
+      "https://apikuslabs.com/assets/images/creatives/02_creative_month_1.png",
+    linkToDocument:
+      "https://apikuslabs.com/assets/pdf/questionnaire_data_fiduciaries.pdf",
+  },
+  {
+    types: "Guide",
+    categories: "Marketing",
+    header: "Digital Marketing Strategies",
+    title: "The Ultimate Guide to Digital Marketing",
+    previewImageUrl:
+      "https://apikuslabs.com/assets/images/creatives/02_creative_month_1.png",
+    linkToDocument:
+      "https://apikuslabs.com/assets/pdf/questionnaire_data_fiduciaries.pdf",
+  },
+  {
     types: "Policy",
     categories: "HR",
     header: null,
