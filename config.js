@@ -87,6 +87,42 @@ module.exports ={ data : [
     linkToDocument: "https://apikuslabs.com/assets/pdf/one-pager_insights.pdf",
   },
   {
+    types: "Guide",
+    categories: "Operations",
+    header: null,
+    title: "Streamlining Operations",
+    previewImageUrl:
+      "https://apikuslabs.com/assets/images/creatives/07_creative_month_1.png",
+    linkToDocument: "https://apikuslabs.com/assets/pdf/one-pager_insights.pdf",
+  },
+  {
+    types: "Guide",
+    categories: "Operations",
+    header: null,
+    title: "Streamlining Operations",
+    previewImageUrl:
+      "https://apikuslabs.com/assets/images/creatives/07_creative_month_1.png",
+    linkToDocument: "https://apikuslabs.com/assets/pdf/one-pager_insights.pdf",
+  },
+  {
+    types: "Guide",
+    categories: "Operations",
+    header: null,
+    title: "Streamlining Operations",
+    previewImageUrl:
+      "https://apikuslabs.com/assets/images/creatives/07_creative_month_1.png",
+    linkToDocument: "https://apikuslabs.com/assets/pdf/one-pager_insights.pdf",
+  },
+  {
+    types: "Guide",
+    categories: "Operations",
+    header: null,
+    title: "Streamlining Operations",
+    previewImageUrl:
+      "https://apikuslabs.com/assets/images/creatives/07_creative_month_1.png",
+    linkToDocument: "https://apikuslabs.com/assets/pdf/one-pager_insights.pdf",
+  },
+  {
     types: "Report",
     categories: "Marketing",
     header: null,
