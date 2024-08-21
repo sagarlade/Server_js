@@ -103,6 +103,24 @@ module.exports ={ data : [
     linkToDocument: "https://apikuslabs.com/assets/pdf/one-pager_insights.pdf",
   },
   {
+    types: "Policy",
+    categories: "HR",
+    header: null,
+    title: "Employee Handbook",
+    previewImageUrl:
+      "https://apikuslabs.com/assets/images/creatives/03_creative_month_1.png",
+    linkToDocument: "https://apikuslabs.com/assets/pdf/one-pager_insights.pdf",
+  },
+  {
+    types: "Policy",
+    categories: "HR",
+    header: null,
+    title: "Employee Handbook",
+    previewImageUrl:
+      "https://apikuslabs.com/assets/images/creatives/03_creative_month_1.png",
+    linkToDocument: "https://apikuslabs.com/assets/pdf/one-pager_insights.pdf",
+  },
+  {
     types: "Report",
     categories: "Sales",
     header: "Monthly Sales Report",
