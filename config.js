@@ -37,6 +37,33 @@ module.exports ={ data : [
     linkToDocument: "https://apikuslabs.com/assets/pdf/one-pager_insights.pdf",
   },
   {
+    types: "Report",
+    categories: "Finance",
+    header: "Q1 Financial Overview",
+    title: "Q1 Financial Performance Report",
+    previewImageUrl:
+      "https://apikuslabs.com/assets/images/creatives/01_creative_month_1.png",
+    linkToDocument: "https://apikuslabs.com/assets/pdf/one-pager_insights.pdf",
+  },
+  {
+    types: "Report",
+    categories: "Finance",
+    header: "Q1 Financial Overview",
+    title: "Q1 Financial Performance Report",
+    previewImageUrl:
+      "https://apikuslabs.com/assets/images/creatives/01_creative_month_1.png",
+    linkToDocument: "https://apikuslabs.com/assets/pdf/one-pager_insights.pdf",
+  },
+  {
+    types: "Report",
+    categories: "Finance",
+    header: "Q1 Financial Overview",
+    title: "Q1 Financial Performance Report",
+    previewImageUrl:
+      "https://apikuslabs.com/assets/images/creatives/01_creative_month_1.png",
+    linkToDocument: "https://apikuslabs.com/assets/pdf/one-pager_insights.pdf",
+  },
+  {
     types: "Guide",
     categories: "Marketing",
     header: "Digital Marketing Strategies",
